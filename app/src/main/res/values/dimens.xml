@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="dim_tabTitleHeight">30dp</dimen>
+    <dimen name="dim_rv_topMargin">40dp</dimen>
+    <dimen name="dim_rv_horizontalMargin">20dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="tab_layout_text_size">15sp</dimen>
+    <dimen name="default_paragraph_text_size">20sp</dimen>
+    <dimen name="default_paragraph_title_size">30sp</dimen>
+    <dimen name="default_paragraph_title2_size">25sp</dimen>
+</resources>

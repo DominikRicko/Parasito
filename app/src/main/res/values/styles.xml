@@ -1,0 +1,23 @@
+<resources>
+    <style name="MyCustomTheme" parent="Theme.AppCompat">
+        <item name="android:actionBarStyle">@style/MyActionBarTheme</item>
+    </style>
+
+    <style name="MyActionBarTheme" parent="ThemeOverlay.AppCompat.ActionBar">
+        <item name="android:background">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="ParagraphTitleStyle">
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:fontFamily">@font/starcraft</item>
+        <item name="android:textSize">@dimen/default_paragraph_title_size</item>
+    </style>
+
+    <style name="ParagraphTitle2Style" parent="ParagraphTitleStyle">
+        <item name="android:textSize">@dimen/default_paragraph_title2_size</item>
+    </style>
+
+    <style name="ParagraphStyle">
+        <item name="android:textSize">@dimen/default_paragraph_text_size</item>
+    </style>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#6600cc</color>
+    <color name="colorLevel1">#e67300</color>
+    <color name="colorLevel2">#85e0e0</color>
+    <color name="colorLevel3">#4dff4d</color>
+    <color name="colorLevel4">#4d4dff</color>
+    <color name="colorLevel5">#ff471a</color>
+    <color name="colorLevel6">#ffad33</color>
+    <color name="colorLevel7">#b3b3b3</color>
+    <color name="colorReactorLevel">#595959</color>
+    <color name="colorCoreLevel">#ffad33</color>
+    <color name="colorSpaceWalk">#a64dff</color>
+    <color name="colorVents">#595959</color>
+    <color name="colorPlanet">#e67300</color>
+    <color name="colorThor">#4d4dff</color>
+</resources>

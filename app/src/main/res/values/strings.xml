@@ -1,0 +1,327 @@
+<resources>
+    <string name="app_name">Parasito</string>
+    <string name="for_new_players">For New Players</string>
+    <string name="how_to_play_human">How to play Human</string>
+    <string name="how_to_play_alien">How to play Alien</string>
+    <string name="how_to_play_psion">How to play Psion</string>
+    <string name="how_to_play_android">How to play Android</string>
+    <string name="how_to_play_syndicate">How to play Syndicate</string>
+    <string name="locations">Locations</string>
+    <string name="game_events">Game Events</string>
+    <string name="title_activity_locations">LocationsActivity</string>
+    <string name="about">About</string>
+    <string name="modes">Modes</string>
+    <string name="places">Places</string>
+    <string name="sub_roles">Sub\-Roles</string>
+    <string name="classic">Classic</string>
+    <string name="zeta">Zeta</string>
+    <string name="chaos">Chaos</string>
+    <string name="station">The Station</string>
+    <string name="level1">Level 1: Cargo Bay</string>
+    <string name="level2">Level 2: Living Quarters</string>
+    <string name="level3">Level 3: Biosphere</string>
+    <string name="level4">Level 4: Med bay</string>
+    <string name="level5">Level 5: Weapons Center</string>
+    <string name="level6">Level 6: Networking and Mechs</string>
+    <string name="level7">Level 7: The Bridge</string>
+    <string name="reactorLevel">Reactor Level</string>
+    <string name="coreLevel">The Core</string>
+    <string name="spaceWalk">Spacewalk</string>
+    <string name="vents">Ventilation Shaft</string>
+    <string name="thor">Military Station Thor</string>
+    <string name="planet">Desert Planet</string>
+    <string name="DSM">Deep Space Miner</string>
+    <string name="SG">Security Guard</string>
+    <string name="Doc">Chief Medical Officer</string>
+    <string name="CWO">Chief Weapons Officer</string>
+    <string name="CMO">Chief Mechs Officer</string>
+    <string name="CIO">Chief Intelligence Officer</string>
+    <string name="Captain">Captain</string>
+    <string name="CEO">Chief Engineer Officer</string>
+    <string name="early_game">Early Game</string>
+    <string name="mid_game">Mid Game</string>
+    <string name="late_game">Late Game</string>
+    <string name="dangers">Dangers</string>
+    <string name="general_tactics">General Tactics</string>
+    <string name="tips">Tips</string>
+    <string name="evolution">Evolution</string>
+    <string name="alignment">Alignment</string>
+    <string name="abilities">Abilities</string>
+    <string name="upgrades">Upgrades</string>
+    <string name="directive">Directive</string>
+    <string name="sabotage">Sabotage</string>
+    <string name="for_new_players_about">
+        It\'s a game about murder and deception. You and your fellow crew members on the station are stranded on an unknown space sector.
+        But you\'re not alone. With you is an alien organism seeking to destroy you. It could be any one of you.
+        Will this enemy prevail or will you eliminate it?
+    </string>
+    <string name="for_new_players_modes_classic">
+        In this gamemode, there are only 2 major roles: Humans and Alien.\n
+        Alien can infect humans to create spawns and by doing so win by spawning everyone.
+        Other way for alien to win this scenario is to kill all humans.\n Humans\' only way to victory is to kill the alien, and it\'s spawns.
+    </string>
+    <string name="for_new_players_modes_zeta">
+        This gamemode gives you more major roles to play with; Psion, Android and Syndicates.\n\n
+        Psion: This role is a human with psychic powers. It has a choice to go good,neutral or evil alignment.\n
+        Evil alignment\'s goal is to destroy everyone else. Good\'s alignment is to help humans.
+        And neutral is&#8230; well neutral. Just survive and you\'re good.\n\n
+        Android\'s role is determined by RNG, It gets it\'s goal, or how it is referred to in the game, Directive.\n
+        This directive can be: Preserve Alien, Eliminate Humanity or Preserve Humanity.\n\n
+        The third and final role is Syndicate.\n In this role you\'re playing as a human, but with a mafia\-esque kind of background and goal.
+        Their goal is to sabotage the station and to murder all non\-syndicate crew members.
+        To differentiate from humans, they have a stash they can place at the start of the game.
+        Stash by itself is invisible and is usually placed in a well\-hidden place.\n\n
+        In this gamemode, there can\'t be both alien and syndicates in the game. Only one of the 2.
+        Android and Psion role have a chance to appear. There might be a Zeta game without any of those.
+    </string>
+    <string name="for_new_players_modes_chaos">
+        Just like zeta gamemode, you have access to all roles. However, syndicate and alien roles both exist, as well as psion and android.
+        Leaving you with 6 humans, and, well&#8230; 6 other\-roled players.
+    </string>
+    <string name="for_new_players_places_station">
+        The station is one of the two main locations of this map. It is sectioned into 9 different levels:
+    </string>
+    <string name="for_new_players_places_level1">
+        On this level you\'ll fine all 8 spaceships, a recycler, a solarite processor, an Auto-doc and a bunch of crates.
+        It has spacewalk access, as well as elevators leading to Level 2, and Reactor Level
+    </string>
+    <string name="for_new_players_places_level2">
+        This level is where all players start the game. It holds a Marshall\'s office,
+        where Security Guards can look at cameras and upgrade station security. Also houses a Teleporter which can teleport a player to Thor and Planet.\n
+        This level has elevators leading to Level 3 and Level 1. Express elevators lead to Reactor level and Core level.
+    </string>
+    <string name="for_new_players_places_level3">
+        Here is what players refer to as \"The Zoo\". Animal life here can be infested by the alien that gives him powerful mindless minions.
+        If such situation is ignored, the station can get infested rather quickly.\n
+        There is also the alien holding pen, from which you can do an experiment on live alien specimen,
+        a Psionic research room, for psi\-research and an Auto-doc.\n
+        Elevators lead to Level 2 and Level 4, also has Spacewalk access.
+    </string>
+    <string name="for_new_players_places_level4">
+        This level holds a gene modifier vendor, Medical research station which has an Auto-doc next to it,
+        and a Blood tester used to identify Alien lifeform.\n
+        Elevators lead to Level 3 and Level 5.
+    </string>
+    <string name="for_new_players_places_level5">
+        Here is where you can upgrade your weapons at the Weapon Upgrade Station, or upgrade the Station Weapons.
+        Elevators lead to Level 4 and Level 6, has Spacewalk access.
+    </string>
+    <string name="for_new_players_places_level6">
+        This is where you can find an Armory, where you can upgrade your persona. You can also research Mechs and Station Firmware.\n
+        Elevators lead to Level 5 and Level 7, also has express elevators leading to Reactor Level and Core Level.
+    </string>
+    <string name="for_new_players_places_level7">
+        This is where the station captain resides in. Nobody usually goes here without reason. Unless the reason is to kill the captain.
+        Has elevator that leads to Level 6 and an express elevator leading to Reactor Level.
+    </string>
+    <string name="for_new_players_places_reactorLevel">
+        Reactor Level is home 2 power links and a transformer which can be interacted with. To cut the power or restore it.
+        On this level you can also find the Oxygen generator, which can be turned on/off
+        There\'s an elevator leading to Level 1, and 3 express elevators leading to Level 2, Level 6 and Level 7.
+    </string>
+    <string name="for_new_players_places_theCore">
+        This is where the station\'s AI resides in. From here you can produce autonomous robots that act like station security.
+        This is also where the Android can upgrade. Express elevators lead to Level 6 and Level 2.
+    </string>
+    <string name="for_new_players_places_spaceWalk">
+        Spacewalk is where you can find the Station\'s Radar dish, which, if destroyed, disables the ability to do Crew or Alien scans.
+        It also connects Level 1, Level 3 and Level 5.
+    </string>
+    <string name="for_new_players_places_ventilationShafts">
+        It\'s a maze which connects all levels. All crew members can use them for a faster travel, but more dangerous
+        as there is no surveillance or protection from station security.\nThe Vents are divided into 2 sections: Odd vents and Even vents.\n
+        Named as such because they connect odd/even levels.
+    </string>
+    <string name="for_new_players_places_planet">
+        Second main location of the map. Has a bunker which contains all the vendors you might need. There are also caves with infested cocoons and solarite veins.
+    </string>
+    <string name="for_new_players_places_thor">
+        Second station that can enter the sector at any time. It\'s a small station with maintenance shaft and a teleporter.
+    </string>
+    <string name="for_new_players_roles_DSM">
+        As a miner, your job is to recycle unused items found from crates in the station.
+        Recycler is found on Level 1. After 5 minutes, you can launch into space using one of those spaceships.
+        Use those to mine mineral clusters found floating in space.
+        Doing so increases your entire crew\'s income while getting you money.
+    </string>
+    <string name="for_new_players_roles_SG">
+        As a security guard, your job is to upgrade station\'s security in Marshall\'s office.
+        Besides that, you\'re to patrol the station and suppress any infestation happening (most likely on Level 3).\n
+        Killing alien minions gives you money.Also, you get extra health.
+    </string>
+    <string name="for_new_players_roles_Doc">
+        As a doctor, your job is to:\n
+        a)Lock the zoo,psi-research room and the alien containment room on Level 3.\n
+        b)Perform experiment on contained Alien specimen on Level 3.\n
+        c)Unlock the Blood Tester on Level 4.\n
+        d)Do research on Level 4.\n
+        e)Do psi-research on Level 3.\n
+    </string>
+    <string name="for_new_players_roles_CWO">
+        As a Sargent, your job is to unlock the Weapon Upgrade Station and do research on Level 5.
+        Given that this role has lowest income out of them all, it\'s customary to let other people
+        come in and do some research for you.
+    </string>
+    <string name="for_new_players_roles_CMO">
+        As a Major, you\'re to upgrade mechs on level 6, as well as unlocking the Armory on the same level.\n
+        Once you get a mech, take the flamethrower one and patrol the vents with it. It is much safer that way.
+    </string>
+    <string name="for_new_players_roles_CIO">
+        As a Lieutenant, you\'re to lock the Blood Tester room on level 4.\n
+        Usually you do research on Level 6, but you can replace someone if they went missing.\n
+        Given that this role has highest income, and gains more income with each research made.
+        A better tactic might be to grab all of the low-cost researches as soon as possible.
+        (Eg. Recycler unlock at Level 1.)
+    </string>
+    <string name="for_new_players_roles_Captain">
+        As the captain of the station and the crew, your job is to oversee everything going on the station
+        by looking through the cameras on Level 7. Occasionally drop down to 6 to do research for Station Firmware.\n
+        Beware that you don\'t get murdered for that Captain Keycard you have in your inventory.
+    </string>
+    <string name="for_new_players_roles_CEO">
+        As an Engineer, you\'re in charge of upgrading the Station Reactor on the Reactor Level, and start production of
+        droids on Core Level.\n
+        You\'re also assigned to do repairs on the station whenever needed.
+    </string>
+    <string name="how_to_play_human_early_game">
+        In early game, you want to get to your job site as soon as possible.
+        Sooner you get there, the sooner you get to do work, which in turn means you get more money quicker.
+        At this point it would somewhat be safe in the vents. If you do meet the Alien Host.\n
+        Don\'t engage unless you\'re in a pair. If you get crabbed, don\'t panic. Just go to the nearest auto-doc station
+        and you\'ll be fine.\n
+        Don\'t get trapped in a room with someone with no way out. There\'s no telling what might happen.\n\n
+        At around 5 minutes, miners should be out of the station and mining.
+        If they\'re not, force them to go mine. Their mining operation is crucial to the entire
+        crew for income.
+    </string>
+    <string name="how_to_play_human_mid_game">
+        Mid game, which would be something like 20 minutes.
+        At this point you\'d have earned a lot of money, upgraded your station quite a bit, if not the whole way.\n
+        At this point, if not sooner, you might consider upgrading yourself at the Armory, or Weapon Upgrade Station or Gene Modifier.\b
+        Traversing the vents is a risk.\n\n
+        In case you are tagged, consider investing some money in either a cloaking device
+        found in Equipment vendors, or Night Dweller gene from Gene Modifier.\n
+        Invisibility might be a very good tool against aliens who can\'t transform to human form.
+        This is because most of such forms do not have detection.
+    </string>
+    <string name="how_to_play_human_late_game">
+        Late game, or end game in some cases. You\'re to look for a
+        way to battle the evil in the way that it will give you advantage,
+        even if it means destroying the station. Just before doing so,
+        do the upgrades and whatever you need beforehand. Because when the
+        station is gone, there is no way to research anything new.
+        Knowing what form the alien is can win you the fight. Find out
+        and use this knowledge to your advantage
+        (weakness and strengths of certain alien forms.)\n
+    </string>
+    <string name="how_to_play_human_dangers">
+        Destroying alien eggs will get you crabbed, unless you\'re in a mech.\n
+        Entering vents while vent decontamination is happening is a bad idea.\n
+        Beware of who may be hiding in steam vents.\n
+        Have a way of detection as soon as possible, cloaking is serious business.\n
+        Try not to get cornered.\n
+        The station getting destroyed early on is very fatal for human\'s victory.\n
+        If oxygen generator gets turned off, your top priority should be getting it back on.\n
+        If your energy starts draining without any obvious reason, go to auto-doc ASAP.\n
+    </string>
+    <string name="how_to_play_alien_general_tactic">
+        In early game, the alien host form is very weak, therefore you shouldn\'t engage in combat
+        you can\'t win. Around 3 minute mark, you can release the alien specimens from Level 3, try getting into there unseen.
+        Break through to the zoo (if locked) and infest the animals, watch the whole thing spread and maybe play the chaos
+        into your advantage. Gain a spawn or 2. See how it goes.\n
+        Doing research as your role while alien will cause said research to be infested, you can check the bonuses you gain at the research console.\n\n
+        Do not play passive. That tactic almost never works!\n
+    </string>
+    <string name="how_to_play_alien_evolution">
+        Pick your evolutions depending on the situations, not what you want to try.
+        If android is still around and is deemed as a big threat, you might consider going into Voltaic route.\n\n
+
+        Alien has 2 main evolution routes:\n
+        1) Body - allows the Alien to infest life support structures on each level.
+        Infesting one will cause it to spawn alien minions (like infesting zoo did, but less powerful) and continue
+        to spread creep. Will also allow you burrow.\n
+
+        2) Mind - allows the Alien to go invisible for undetermined time. But be wary, that invisibility is still noticeable
+        on players\'s screens, because Starcraft 2. You can also build shrines which will mind\-fest nearby humans. This type
+        of infestation is not visually visible, but it is visible by the energy draining of the target. Once it\'s energy goes to 0
+        said target becomes your subordinate spawn.\n\n
+
+        From that point on, you choose the sub-routes how you see fit.
+    </string>
+    <string name="how_to_play_alien_dangers">
+        By no means fight someone with a flamethrower weapon as initial Alien Host form. That is a suicide.
+        Avoid security guards as initial host, they have extra health, making them even more dangerous than an average crew member.\n
+    </string>
+    <string name="how_to_play_alien_tips">
+        Leaving your eggs out in the open may damage your evolution progress, but destroying the eggs causes the targets to be crabbed.
+        This could play into your hands if you play it smart.
+    </string>
+    <string name="how_to_play_psion_alignment">
+        Alignment plays a huge part for psion. It basically tells him what his goal is. Once you get past 10 alignment positive or negative, you can\'t go back.\n
+        Alignment is obtained by killing humans(negative) or alien(positive), and by choosing your abilities.\n
+        Once psion reaches past 10 alignment, either good abilities or evil abilities get locked. Making you not able to pick those abilities anymore.
+    </string>
+    <string name="how_to_play_psion_abilities">
+        Abilities are grouped up in 3 categories:\n
+        Good Alignment abilities are centered around group support. Making psion something like a healer, but also a nuker.\n
+        Evil Alignment abilities are centered around damage output. Making psion damage dealer of epic proportions.\n
+        Neutral Alignment abilities are something in between mobility and self-preservation.\n\n
+    </string>
+    <string name="how_to_play_psion_general_tactic">
+        Depending if good aligned or evil. You might want to reveal yourself to the rest of the crew.
+        Most players deem that if psion identifies himself earlier that he is good, but to take safety measures they still test you.
+
+        As an evil psion, don\'t be afraid to be the first one to pull the trigger in 1v1 scenario.
+        With telekinetic grasp and lightning ability, you can pretty easily deal a lot of damage.
+        Combine that with a right weapon, you can kill a person pretty quickly, whitout him outting your identity.\n
+        As a psionic being, your weakness is Pulse Rifle, which deals extra damage to shields and psionic targets.
+    </string>
+    <string name="how_to_play_psion_tips">
+        You can get extra ability points by sabotaging psi-research on Level 3.
+    </string>
+    <string name="how_to_play_android_directive">
+        Directive is what dictates what goal you have in the game.
+        There are 3 different directives:\n
+        1) Destroy humanity.\n
+        2) Protect Humanity.\n
+        3) Preserve Alien Lifeform.\n
+        The last directive gives you access to alien communication channels.
+    </string>
+    <string name="how_to_play_android_upgrades">
+        Upgrades is how android gets stronger. There are 2 types of upgrades.
+        First which are dubbed as  \"Sleeper Upgrades\". Such upgrades are done on your human-like form but can carry on to the other upgrades.
+        Second which are Chassis Upgrades. Changing your form completely, which grants you different stats and abilities.
+    </string>
+    <string name="how_to_play_android_tips">
+        Dying is a bit different for Android. Upon death you drop a Memory chip which can hop around for a bit.
+        It has to reach The Core to repair itself, or be brought there.
+        Upon when the person who brought it gets a remote controller to turn the android on or off.
+        However, your directive still takes top priority.
+    </string>
+    <string name="how_to_play_android_general_tactic">
+        Depending on your directive you might want to reveal yourself to the rest of the crew.
+        Good droids are still periodically tested by the captain by getting targeted.
+        Although turrets cannot attack you thanks to the Core.
+    </string>
+    <string name="how_to_play_syndicate_early_game">
+        In early game, you should place down your stash in some remote location where it\'s not so easy to find. Given, the stash does have cloaking.
+        However, cloaked units are easily spotted, it\'s only a matter of having detection. You should also grab the Syndicate Communication Relay in
+        order to talk to your teammates. It makes planning easier.
+    </string>
+    <string name="how_to_play_syndicate_general_tactic">
+        Grouping up and just collectively murdering people seems like a good tactic, too bad not many use it.
+        Murder as many people as possible and just try to keep it down low.\n
+        Calling for a Syndicate Assault Pod is good for a more direct assault approach. Think of it as reinforcements.\n
+        Setting up a powersink is also valid option to murder the station as people cannot perform the \"Saber\-test\" which requires Weapons 5.
+        Therefore you\'re forcing the game into a deathmatch.
+    </string>
+    <string name="how_to_play_syndicate_sabotage">
+        Sabotaging by researching may be good, may not be, depending on what Human sub\-role you got.
+        Sabotaging in terms of destroying Security Boxes in vents is always a good idea for evil.
+    </string>
+    <string name="how_to_play_syndicate_tips">
+        Always attack in a pair or more.\n
+        You can mindwipe a crew member and make him become a syndicate member.
+        Always use whatever syndicate sub-role bonus you\'ve got. These are very useful.
+    </string>
+</resources>

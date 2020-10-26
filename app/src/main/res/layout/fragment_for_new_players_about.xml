@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <!--Setting the ImageView's height to wrap_content or match_parent
+    causes the image to have undesired padding.
+    -->
+        <ImageView
+            android:id="@+id/ivBanner"
+            android:layout_width="wrap_content"
+            android:layout_height="260sp"
+            android:src="@drawable/banner"
+            />
+
+        <TextView
+            android:id="@+id/tvParam"
+            android:layout_below="@id/ivBanner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/for_new_players_about"
+            android:textSize="@dimen/default_paragraph_text_size"
+            android:paddingTop="@dimen/fab_margin"
+            android:paddingStart="@dimen/fab_margin"
+            android:paddingEnd="@dimen/fab_margin"
+            />
+
+    </RelativeLayout>
+</ScrollView>
+
